@@ -1,2 +1,1 @@
-# Responsive-Event-Organization-Website-in-HTML-CSS-JavaScript
-Hey guys in this article we make a Responsive Event Organization Website in HTML CSS and JavaScript
+A stylish and responsive hotel website built with HTML, CSS, and JavaScript. Designed to offer a modern, user-friendly experience
