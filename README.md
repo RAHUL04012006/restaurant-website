@@ -4,7 +4,6 @@ A stylish and responsive hotel website built with **HTML**, **CSS**, and **JavaS
 
 ## Table of Contents
 - [Features](#features)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
@@ -18,11 +17,6 @@ A stylish and responsive hotel website built with **HTML**, **CSS**, and **JavaS
 - **Modern UI/UX**: Clean and attractive design with a focus on user experience.
 - **Interactive Elements**: Smooth transitions and effects using JavaScript.
 - **Customizable**: Easy to modify and extend to suit your needs.
-
----
-
-## Demo
-Check out the live demo of the website [here](#) (Add your live website link).
 
 ---
 
