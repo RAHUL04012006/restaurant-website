@@ -8,7 +8,7 @@ A stylish and responsive hotel website built with **HTML**, **CSS**, and **JavaS
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
